@@ -1,9 +1,6 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-
-
-asdasd
 namespace Gallery
 {
     public class FilterConfig
